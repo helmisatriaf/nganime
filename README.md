@@ -76,8 +76,6 @@ This project was created aimed at completing the submission of matching front-en
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how to list things you need to use the software and how to install them.
 * npm install
   ```sh
   npm install npm@latest -g
