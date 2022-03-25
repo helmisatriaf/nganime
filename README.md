@@ -7,10 +7,9 @@
     <img src="https://i.ibb.co/ZSHKxT0/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">NGANIME</h3>
 
   <p align="center">
-   NGANIME
     <br />
     <a href="https://github.com/helmi3334/nganime/"><strong>Explore the docs »</strong></a>
     <br />
@@ -56,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://i.ibb.co/mHWHRxL/home-nganime.jpg)
+[![home-nganime][home-nganime]](https://i.ibb.co/mHWHRxL/home-nganime.jpg)
 
 This project was created aimed at completing the submission of matching front-end web development learning classes. The website that was created aims to present information about anime and manga that are trending, immediately publish, the highest ranking and various other categories. This website is still in the development stage so that the features provided are more varied and certainly interesting for visitors.
 
