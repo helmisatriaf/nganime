@@ -55,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![home-nganime.jpg][home-nganime]](https://i.ibb.co/mHWHRxL/home-nganime.jpg)
+![home-nganime.jpg](https://i.ibb.co/mHWHRxL/home-nganime.jpg)
 
 This project was created aimed at completing the submission of matching front-end web development learning classes. The website that was created aims to present information about anime and manga that are trending, immediately publish, the highest ranking and various other categories. This website is still in the development stage so that the features provided are more varied and certainly interesting for visitors.
 
