@@ -104,6 +104,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Muhammad Helmi Satria Fedianto - Instagram : @helmifedianto(https://www.instagram.com/helmifedianto/) -Email : muhammadhelmi3334@gmail.com
+Muhammad Helmi Satria Fedianto - muhammadhelmi3334@gmail.com
 Project Link: [https://github.com/helmi3334/nganime](https://github.com/helmi3334/nganime)
 <p align="right">(<a href="#top">back to top</a>)</p>
